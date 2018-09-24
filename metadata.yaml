@@ -1,0 +1,48 @@
+_repo: The-Rush-for-the-Spoil-La-Curee-A-Realistic-Novel_56590
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Moore, George
+    aliases:
+    - Moore, George Augustus
+    - Rhone, Lady
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+  translator:
+    agent_name: Vizetelly, Ernest Alfred
+    aliases:
+    - Vizetelly, E. A. (Ernest Alfred)
+    - Vizetelly, Ernest A.
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '3192'
+    url: http://www.gutenberg.org/2009/agents/3192
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: ''
+gutenberg_issued: '2018-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'The Rush for the Spoil (La Curée): A Realistic Novel'
+url: http://www.gutenberg.org/ebooks/56590
